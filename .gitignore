@@ -1,0 +1,13 @@
+*.swp
+*.mp3
+build/
+dist/
+__pycache__
+*.sqlite3
+*.log
+*.spec
+*.dat
+nada
+*.srt
+*.pickle
+*.swp
